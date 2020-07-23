@@ -1,0 +1,82 @@
+ /* table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        } */
+ 
+ body {
+     margin: 0px;
+     padding: 0px;
+ }
+ /* CHAPTER 43 TO 48 */
+ 
+ .heading {
+     font-size: 26px;
+     font-family: helvetica;
+     text-align: center;
+ }
+ 
+ .container {
+     display: inline;
+ }
+ 
+ .mob1 {
+     display: initial;
+     cursor: pointer;
+     margin-left: 32px;
+     width: 300px;
+ }
+ 
+ .one {
+     display: inline;
+ }
+ 
+ .mod1 {
+     display: inline;
+     margin-left: -155px;
+     padding-top: 24px;
+ }
+ /* QUESTION TWO */
+ 
+ td {
+     border: 1px solid;
+ }
+ 
+ .imagesContainer {
+     /* width: 20%; */
+     text-align: center;
+ }
+ 
+ .imgesAll {
+     width: 20%;
+ }
+ /* modal image */
+ 
+ .modImage {
+     width: 465px;
+ }
+ 
+ .counter {
+     text-align: center;
+     padding-top: 24px;
+ }
+ 
+ .formContainer {
+     width: 70%;
+     margin: auto;
+     background-color: teal;
+     border: 1px solid gray;
+     border-radius: 16px;
+     text-align: center;
+ }
